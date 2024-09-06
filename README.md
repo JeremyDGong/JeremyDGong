@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeremyDGong
 - 👀 I’m interested in Financial Data Analysis and Programming.
 - 🌱 I’m currently learning Javascript and Python.
-- 💞️ I’m looking to collaborate on ? I have no idea yet.
+- 💞️ I’m looking to collaborate on building a Python program.
 - 📫 How to reach me...
 
 <!---
